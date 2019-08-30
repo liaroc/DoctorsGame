@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Arvo", serif;
+}
+
+body {
+  position: relative;
+  background-image: url(media/back2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.myTxt {
+  height: 100px;
+}
+
+.container {
+  height: 90vh;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 120px;
+  box-shadow: 0 0 1px;
+}
+
+.description {
+  width: 50%;
+}
+.container img {
+  margin-left: 150%;
+  margin-top: 30%;
+}
+
+.title {
+  margin-left: 400px;
+  margin-top: 10px;
+}
+
+.shoulder p {
+  max-width: 100px;
+  padding-right: 300px;
+}
+
+.red {
+  background-color: red !important;
+}
+
+.text {
+  display: none;
+}
+
+.start {
+  width: 150px;
+  height: 100px;
+}
+
+.span {
+  border: 4px solid black;
+}
+
+.E {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.664);
+  left: 325px;
+  top: 155px;
+}
+
+.C {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.664);
+  left: 430px;
+  top: 259px;
+}
+
+.M {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.664);
+  left: 319px;
+  top: 305px;
+}
+
+.H {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.664);
+  left: 399px;
+  top: 320px;
+}
+
+.G {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.664);
+  left: 352px;
+  top: 430px;
+}
+
+.P {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.664);
+  left: 395px;
+  top: 508px;
+}
